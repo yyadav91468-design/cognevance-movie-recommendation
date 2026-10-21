@@ -1,0 +1,5 @@
+metric,mean_score
+cf_precision_at_10,0.006357758620689656
+cf_recall_at_10,0.013686215543916523
+pop_precision_at_10,0.13135775862068966
+pop_recall_at_10,0.13804263341996176
